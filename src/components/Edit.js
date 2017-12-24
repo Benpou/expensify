@@ -5,7 +5,7 @@ const Edit = (props) => {
   console.log(props);
   return (
     <div>
-      This is edit page {props.match.params.id}.
+      This is edit page {props.match.params.id}
     </div>
   )
 }
